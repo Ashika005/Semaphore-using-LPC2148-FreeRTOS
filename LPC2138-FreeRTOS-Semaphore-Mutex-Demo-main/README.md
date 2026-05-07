@@ -275,7 +275,7 @@ This project is open-source and free to use for educational and research purpose
 
 ## 👨‍💻 Author
 
-Anandhu AKR
+Ashika K
 
 ## 📬 Contact
 
